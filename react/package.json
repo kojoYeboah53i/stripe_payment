@@ -1,0 +1,11 @@
+{
+  "name": "react-cra",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@stripe/react-stripe-js": "^1.10.0",
+    "@stripe/stripe-js": "^1.35.0"
+
+  }
+
+}
